@@ -112,11 +112,9 @@ while True:
 
     print("Tracking objects")
     print(tracking_objects)
-
-
+    
     print("CUR FRAME LEFT PTS")
     print(center_points_cur_frame)
-
 
     cv2.imshow("Frame", frame)
 
